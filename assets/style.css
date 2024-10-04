@@ -1,0 +1,22 @@
+*{
+    font-family: roboto;
+}.nav{
+    background-color:#3fbabf;
+}
+.botn ,.botn2{
+    background-color: #3fbabf !important;}
+.clr{
+    color:#3fbabf !important ;
+}
+.cap{
+    bottom: 7rem !important;
+}
+.brd{
+border: 1px dashed #3fbabf ;
+}
+.hro{
+    border-top:3px solid #3fbabf ; ;
+}
+.bod{
+    background-color:#f7fdfd;
+}
